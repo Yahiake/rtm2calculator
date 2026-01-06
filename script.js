@@ -9,7 +9,7 @@ document.getElementById("averageForm").addEventListener("submit", function (e) {
         securite: 2,
         web: 2,
         tp_securite: 1,
-        tp_ai: 1,
+        tp_voip: 1,
         tp_rsf: 1,
         iot: 1,
         rechdoc: 1,
